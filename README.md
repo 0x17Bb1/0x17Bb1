@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @0x17Bb1
-- 👀 I’m interested in all the things
-- code ? all but nothing 
-
-- 📫 How to reach me dc:deutschland_0x0
-
+Mainly a retard 
+expert in lua html js php ts 
+tring to lern c++ 
+if you need anything add 0x0devcone on dc 
